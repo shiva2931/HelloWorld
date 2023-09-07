@@ -10,5 +10,4 @@ die('Error In connection'.mysqli_connect_error());
 }else{
 echo 'Connection Success<br>';
 }
-//mysqli_close($conn);
 ?>
